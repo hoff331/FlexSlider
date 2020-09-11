@@ -1,7 +1,7 @@
 # FlexSlider 2
 http://www.woothemes.com/flexslider/ - Copyright (c) 2012 WooThemes
 
-## Updates
+### Updates
 
 ** Version 2.2.0**
 
